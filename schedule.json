@@ -183,13 +183,13 @@
    "xe": 14.5,
    "y": 0
  }, {
-   "caption": "Special Snack",
-   "start": "2:00AM",
-   "end": "3:00AM",
+   "caption": "Midnight Snack",
+   "start": "12:00AM",
+   "end": "1:00AM",
    "location": "Cafeteria",
    "color": "#ff3333",
-   "xs": 15,
-   "xe": 16,
+   "xs": 13,
+   "xe": 14,
    "y": 0
  }, {
    "caption": "Mafia",
