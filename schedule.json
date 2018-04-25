@@ -238,12 +238,12 @@
    "y": 0
  }, {
    "caption": "Demos (General)",
-   "start": "1:30PM",
-   "end": "2:30PM",
+   "start": "1:15PM",
+   "end": "3:00PM",
    "location": "Cafeteria",
    "color": "#4d94ff",
-   "xs": 26.5,
-   "xe": 27.5,
+   "xs": 26.25,
+   "xe": 28,
    "y": 0
  }, {
    "caption": "Demos (Finalists)",
@@ -265,11 +265,11 @@
    "y": 1
  }, {
    "caption": "MLH Hardware Return",
-   "start": "2:30PM",
+   "start": "3:00PM",
    "end": "5:30PM",
    "location": "MLH Hardware Lab",
    "color": "#4d94ff",
-   "xs": 27.5,
+   "xs": 28,
    "xe": 30.5,
    "y": 2
  }]
